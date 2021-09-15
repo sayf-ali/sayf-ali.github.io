@@ -1,5 +1,5 @@
 # Real-Time Bus Tracker
-Real-Time Bus Tracker is a project that maps an animated bus marker passing by a set of bus-stops along New Yor City's M55 bus route from Bryant Park to South Ferry in Lower Manhattan.  Existing code using APIs for Mapbox and NYC Metropolitan Transit Authority (MTA) bus data was leveraged in this project as a starter.  Code refactoring was utilized to add enhancements to the mapping solution. Some of the enhancements were:
+Real-Time Bus Tracker is a project that maps an animated bus marker passing by a set of bus-stops along New York City's M55 bus route from Bryant Park to South Ferry in Lower Manhattan.  Existing code using APIs for Mapbox and NYC Metropolitan Transit Authority (MTA) bus data was leveraged in this project as a starter.  Code refactoring was utilized to add enhancements to the mapping solution. Some of the enhancements were:
 1. Map Tilting through Pitch and Bearing Properties
 2. A Gradient Line through Map Layering
 3. Coordinate Circles through Map Layering to Correspond with Bus-stops
