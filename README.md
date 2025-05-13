@@ -8,7 +8,7 @@ AWS | Azure | GCP | NVIDIA | OpenAI | GitHub Copilot
 I lead enterprise-scale cloud AI delivery across AWS, Azure, GCP, and NVIDIA, focusing on:
 
 - **GenAI Solution Engineering** (Azure OpenAI, GitHub Copilot, prompt engineering, custom assistants)
-- 🛠**Orchestration & AI Agents** (Azure AI Studio, Semantic Kernel, API chaining, task routing)
+- **Orchestration & AI Agents** (Azure AI Studio, Semantic Kernel, API chaining, task routing)
 - **Responsible AI & Governance** (Prompt safety, policy artifacts, use case assessment)
 - **AI Coaching & Enablement** (Workshops, upskilling, stakeholder onboarding)
 
