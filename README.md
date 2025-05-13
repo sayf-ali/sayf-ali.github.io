@@ -43,7 +43,7 @@ Actively developing AI- and cloud-focused projects that showcase GitHub Copilot,
 | `ghcopilot-ai-studio-demo` | A hands-on GitHub Copilot + Azure AI Studio use case for building a conversational agent with API integration |
 | `multi-cloud-genai-strategy` | A repo of cloud AI design patterns and delivery artifacts across AWS, Azure, GCP, and NVIDIA |
 | `responsible-ai-patterns-enterprise` | A practical collection of Responsible AI design patterns, prompt safety techniques, and governance artifacts for Azure OpenAI and multi-cloud GenAI delivery |
-| `legacy-projects` | Archived MERN/JavaScript projects from MIT and early developer experience — foundational work from my transition into cloud and AI |
+| [`legacy-projects`] (https://github.com/sayf-ali/legacy-projects)| Archived MERN/JavaScript projects from MIT and early developer experience — foundational work from my transition into cloud and AI |
 
 ---
 
