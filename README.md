@@ -10,9 +10,9 @@ I lead enterprise-scale cloud AI delivery across AWS, Azure, GCP, and NVIDIA, fo
 - **GenAI Solution Engineering** (Azure OpenAI, GitHub Copilot, LangChain)
 - **Orchestration & AI Agents** (Azure AI Studio, Semantic Kernel, API workflows)
 - **Responsible AI & Governance** (Prompt safety, policy artifacts, use case assessment)
-- 👥 **AI Coaching & Enablement** (Workshops, upskilling, stakeholder onboarding)
+- **AI Coaching & Enablement** (Workshops, upskilling, stakeholder onboarding)
 
-🎓 Currently preparing for:  
+Currently preparing for:  
 **AI-102: Azure AI Engineer Associate**  
 **NVIDIA Certified Associate: Generative AI LLMs**  
 *Targeting reapplication* to **Georgia Tech MS in Analytics (Computational Data)** – previously accepted for Spring 2025
