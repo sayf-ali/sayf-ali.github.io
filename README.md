@@ -24,9 +24,10 @@ Currently preparing for:
 
 With over a decade of experience across **AI, data, and cloud transformations**, I’ve delivered multi-cloud solutions for Fortune 500 clients across:
 
+- Aviation  
 - Healthcare & Life Sciences  
-- Government & Public Sector  
-- Aviation & Retail  
+- Public Sector & Social Impact  
+- Retail
 
 I also earned a professional certificate in **Full Stack Development** from MIT and have experience building cloud-hosted web applications with JavaScript, MERN, and Docker.
 
